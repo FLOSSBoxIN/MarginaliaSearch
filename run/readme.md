@@ -26,7 +26,7 @@ $ run/setup.sh
 2. Compile the project and build docker images
 
 ```
-$ ./gradlew assemble docker
+$ ./gradlew assemble dist docker
 ```
 
 3. Initialize the database
